@@ -13,3 +13,5 @@ $postData = array(
 );
 
 bitrix24Lead($postData);
+
+Справочник https://dev.1c-bitrix.ru/community/blogs/chaos/crm-sozdanie-lidov-iz-drugikh-servisov.php
